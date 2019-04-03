@@ -1,5 +1,5 @@
 # ExpenseBook
-A responsive fullstack React app that allows users to keep track of their expenses!
+A responsive fullstack MERN app that allows users to keep track of their expenses!
 
 Features a local login system with password security (salted + hashed) using Bcrypt.
 
@@ -11,6 +11,7 @@ See the app [here](https://react-expensebook.herokuapp.com/).
 - CSS/HTML (Flexbox)
 - Express
 - Javascript
+- MongoDB
 - NodeJS
 - Passport
 - React & Redux

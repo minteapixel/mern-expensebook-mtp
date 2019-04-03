@@ -1,0 +1,8 @@
+# development
+/node_modules
+dev.js
+testusers.md
+/playground
+
+# misc
+.DS_Store

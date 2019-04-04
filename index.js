@@ -32,7 +32,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 // backend routes
-app.use('/', indexRoutes);
+// app.use('/', indexRoutes);
 app.use('/api/expenses', expenseRoutes);
 app.use('/api/auth', authRoutes);
 

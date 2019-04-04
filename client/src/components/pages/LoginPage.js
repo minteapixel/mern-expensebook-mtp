@@ -22,7 +22,7 @@ class LoginPage extends Component {
 
   render(){
     return (
-      <div className="box-layout">
+      <div className="box-layout box-layout--loginpage">
         <div className="box-layout__box">
           <h2 className="box-layout__title">Welcome to ExpenseBook!</h2>
           <p>Easily manage your expenses for a peace of mind.</p>

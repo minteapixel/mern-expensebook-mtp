@@ -4,7 +4,7 @@ A responsive fullstack MERN app that allows users to keep track of their expense
 Features a local login system with password security (salted + hashed) using Bcrypt.
 
 ## Live Demo
-See the app [here](https://react-expensebook.herokuapp.com/).
+See the app at [https://react-expensebook.herokuapp.com/](https://react-expensebook.herokuapp.com/)
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/minteapixel/mern-expensebook-mtp/master/screenshots/dashboard.png" width="256px">

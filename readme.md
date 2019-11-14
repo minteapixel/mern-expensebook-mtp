@@ -7,8 +7,10 @@ Features a local login system with password security (salted + hashed) using Bcr
 See the app at [https://react-expensebook.herokuapp.com/](https://react-expensebook.herokuapp.com/)
 
 ## Screenshots
+<p align="center">
 <img src="https://raw.githubusercontent.com/minteapixel/mern-expensebook-mtp/master/screenshots/dashboard.png" width="256px">
 <img src="https://raw.githubusercontent.com/minteapixel/mern-expensebook-mtp/master/screenshots/edit-expense.png" width="256px">
+</p>
 
 ## Built With
 - Bcrypt
